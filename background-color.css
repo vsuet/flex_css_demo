@@ -1,0 +1,19 @@
+header {
+  background-color: hsla(15, 75%, 75%, 0.5);
+}
+
+nav {
+  background-color: hsla(25, 75%, 75%, 0.5);
+}
+
+aside {
+  background-color: hsla(35, 75%, 75%, 0.5);
+}
+
+main {
+  background-color: hsla(45, 75%, 75%, 0.5);
+}
+
+footer {
+  background-color: hsla(55, 75%, 75%, 0.5);
+}
